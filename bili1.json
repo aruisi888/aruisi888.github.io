@@ -1,7 +1,9 @@
 
 
 {
-   "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/cookie.txt",
+    "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/cookie.txt",
+    
+    
     "classes":[
      
      {
@@ -158,6 +160,7 @@
     
     ],
     
+
      "filter":{
      "考公考证": [
       {"key": "order","name": "排序","value": [
