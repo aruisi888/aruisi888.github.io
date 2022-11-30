@@ -1,12 +1,5 @@
 [
         {
-        "name" : "👑流年",
-        "server" : "http://aruisi.fun:81/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
         "name" : "👗小雅",
         "server" : "http://alist.xiaoya.pro/",
         "startPage" : "/",
@@ -14,29 +7,36 @@
         "search" : true
     },
         {
+        "name" : "👑流年",
+        "server" : "http://aruisi.fun:81",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
         "name" : "🎬杜比",
-        "server" : "https://dubi.tk/",
+        "server" : "https://dubi.tk",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
     },
         {
         "name" : "🕴木偶",
-        "server" : "https://www.kugutsu.ml/",
+        "server" : "https://www.kugutsu.ml",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
     },
         {
         "name" : "🏵久剃",
-        "server" : "https://drive.9t.ee/",
+        "server" : "https://drive.9t.ee",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
     },
         {
         "name" : "👁房客",
-        "server" : "https://alist1.owen10086.repl.co/",
+        "server" : "https://alist1.owen10086.repl.co",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
