@@ -8,7 +8,7 @@
     },
         {
         "name" : "👑流年",
-        "server" : "http://aruisi.fun:81",
+        "server" : "http://aruisi.fun:81/",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
@@ -35,7 +35,7 @@
         "search" : true
     },
         {
-        "name" : "👁房客",
+        "name" : "👁兮语",
         "server" : "https://alist1.owen10086.repl.co",
         "startPage" : "/",
         "showAll" : false,
