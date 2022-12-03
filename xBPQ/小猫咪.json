@@ -1,0 +1,9 @@
+{
+"站名": "小猫咪",
+"主页url": "https://xmaomi.top",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录$5",
+"分类url": "https://xmaomi.top/vod_type/{cateId}/arer/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放数组": "class=\"hl-plays-list&&</ul>"
+}

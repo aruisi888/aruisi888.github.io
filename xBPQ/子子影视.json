@@ -1,0 +1,26 @@
+{
+"name": "子子影视",
+"url": "https://www.ziziys.com",
+"fenlei": "电影$/list/1/page/#动漫$/list/3/page/#国产剧$/list/13/page/#美剧$/list/14/page/#日韩剧$/list/15/",
+"jiequshuzuqian": "<div class=\"module-item-te",
+"jiequshuzuhou": "<div class=\"loading\"></div>",
+"biaotiqian": "alt=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "xt\">",
+"fubiaotihou": "</div",
+"bfjiequshuzuqian": "class=\"scroll-content",
+"bfjiequshuzuhou": "</div>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</div>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</div>",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": "播放",
+"bfbiaotihou": "\"",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\"",
+"线路数组": "data-dropdown-value&&</div>",
+"线路标题": "<span>&&</small>"
+
+ }
