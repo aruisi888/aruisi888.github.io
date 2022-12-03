@@ -1,0 +1,16 @@
+{
+  
+  "站名": "大师兄影视",
+  "主页url": "https://dsxys.com",
+  "免嗅":"1",
+  "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+  "分类url": "https://dsxys.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "副标题": "class=\"module-item-note\">&&</span>",
+  "导演": "导演：&&</div>",
+  "主演": "主演：&&</div>",
+  "简介": "class=\"module-info-item module-info-introduction\">&&</span>",
+  "线路数组": "class=\"module-tab-item tab-item&&</div>",
+  "线路标题": "<span>&&</span>",
+  "播放数组": "class=\"module-play-list-content&&</div>",
+  "筛选": "0"
+  }
