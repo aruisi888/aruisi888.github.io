@@ -40,6 +40,14 @@ DOMAIN-SUFFIX,registry.dockermirror.com
 # Hugging Face 镜像
 DOMAIN-SUFFIX,hf-mirror.com
 # DDNS
+DOMAIN-SUFFIX,423down.com
+DOMAIN-SUFFIX,549.tv
+DOMAIN-SUFFIX,jsinfo.net
+DOMAIN-KEYWORD,qq9090
+DOMAIN-KEYWORD,steampowered
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,bbs9090
+DOMAIN-SUFFIX,ghxi.com
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-SUFFIX,checkip.dyndns.org
