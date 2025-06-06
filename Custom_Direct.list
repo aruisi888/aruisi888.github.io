@@ -181,6 +181,77 @@ DOMAIN-SUFFIX,5ddd.com
 # 其他
 #DOMAIN-SUFFIX,tshell.online
 # 未泱阅读
+
+  - DOMAIN,154.17.228.98,DIRECT
+  - DOMAIN-SUFFIX,bing.com,DIRECT
+  - DOMAIN-SUFFIX,live.com,DIRECT
+  - DOMAIN-SUFFIX,msn.com,DIRECT
+  - DOMAIN-SUFFIX,ntp.org,DIRECT
+  - DOMAIN-SUFFIX,office.com,DIRECT
+  - DOMAIN-SUFFIX,qlogo.cn,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+  - DOMAIN-SUFFIX,redhat.com,DIRECT
+  - DOMAIN-SUFFIX,jspoo.com,DIRECT
+  - DOMAIN-KEYWORD,douyin,DIRECT
+  - DOMAIN-KEYWORD,microsoft,DIRECT
+  - DOMAIN-KEYWORD,windows,DIRECT
+  - DOMAIN-KEYWORD,jspoo,DIRECT
+  - DOMAIN-KEYWORD,vrmoo,DIRECT
+  - DOMAIN-KEYWORD,yeyulingfeng,DIRECT
+  - DOMAIN-KEYWORD,nite07,DIRECT
+  - DOMAIN-SUFFIX,423down.com,DIRECT
+  - DOMAIN-SUFFIX,bbs9090.com,DIRECT
+  - DOMAIN-SUFFIX,ghxi.com,DIRECT
+  - DOMAIN-SUFFIX,jsinfo.net,DIRECT
+  - DOMAIN-KEYWORD,huya,DIRECT
+  - DOMAIN-KEYWORD,qq9090,DIRECT
+  - DOMAIN-SUFFIX,lmlla.lmscunb.pro,DIRECT
+  - DOMAIN-KEYWORD,lmlla,DIRECT
+  - DOMAIN-KEYWORD,lmscunb,DIRECT
+  - DOMAIN-SUFFIX,xunlei.com,DIRECT
+  - DOMAIN-SUFFIX,sandai.net,DIRECT
+  - DOMAIN-SUFFIX,xlpan.com,DIRECT
+  - DOMAIN-SUFFIX,downloadbt.com,DIRECT
+  - DOMAIN-SUFFIX,n0808.com,DIRECT
+  - DOMAIN,lixian.vip.xunlei.com,DIRECT
+  - DOMAIN,p2sp.xunlei.com,DIRECT
+  - DOMAIN,xl9.xlmc.sandai.net,DIRECT
+  - DOMAIN,xluser.xunlei.com,DIRECT
+  - DOMAIN,upgrade.xunlei.com,DIRECT
+  - DOMAIN,router.xunlei.com,DIRECT
+  - DOMAIN,i.xunlei.com,DIRECT
+  - DOMAIN,login.xunlei.com,DIRECT
+  - DOMAIN,dynamic.vip.xunlei.com,DIRECT
+  - DOMAIN,biz5-vip-ssl.xunlei.com,DIRECT
+  - DOMAIN,resource.vip.xunlei.com,DIRECT
+  - DOMAIN,count-vip.xunlei.com,DIRECT
+  - DOMAIN,search-ssl.xunlei.com,DIRECT
+  - DOMAIN,config.xunlei.com,DIRECT
+  - DOMAIN,ad.xunlei.com,DIRECT
+  - DOMAIN,up.xunlei.com,DIRECT
+  - DOMAIN,update.xunlei.com,DIRECT
+  - DOMAIN,static.vip.xunlei.com,DIRECT
+  - DOMAIN,push-ssl.xunlei.com,DIRECT
+  - DOMAIN,mtalk.google.com,DIRECT
+  - DOMAIN,alt1-mtalk.google.com,DIRECT
+  - DOMAIN,alt2-mtalk.google.com,DIRECT
+  - DOMAIN,alt3-mtalk.google.com,DIRECT
+  - DOMAIN,alt4-mtalk.google.com,DIRECT
+  - DOMAIN,alt5-mtalk.google.com,DIRECT
+  - DOMAIN,alt6-mtalk.google.com,DIRECT
+  - DOMAIN,alt7-mtalk.google.com,DIRECT
+  - DOMAIN,alt8-mtalk.google.com,DIRECT
+  - DOMAIN,dl.google.com,DIRECT
+  - DOMAIN,dl.l.google.com,DIRECT
+  - DOMAIN,update.googleapis.com,DIRECT
+  - DOMAIN,clientservices.googleapis.com,DIRECT
+  - DOMAIN-SUFFIX,ypojie.com,DIRECT
+  - DOMAIN,ccc-x.jd.com,DIRECT
+  - DOMAIN-SUFFIX,hassbian.com,DIRECT
+  - DOMAIN-SUFFIX,attachment.hasstatic.com,DIRECT
+  - DOMAIN-KEYWORD,attachment,DIRECT
+  - DOMAIN-KEYWORD,hassbian,DIRECT
+  - DOMAIN,bbs.hassbian.com,DIRECT
 #DOMAIN-SUFFIX,winyoungreading.com
 
 # 更多已被收录的域名，此处未做保留
