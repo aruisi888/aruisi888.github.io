@@ -3,14 +3,14 @@ name: Generate ClashMeta Config
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时自动执行一次，可自调
+    - cron: '0 */6 * * *'  # 每6小时执行一次，可根据需要调整
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Pull Subconverter Docker and Generate Config
@@ -20,13 +20,21 @@ jobs:
             tideyg/subconverter \
             -url "https://sbgfw.trafficmanager.net/api/v1/client/subscribe?token=0d4d8503f2db341da4249e93c157b1cd|https://submit.xz61.cn:22443/api/v1/client/subscribe?token=678f81304784c5f188b444ba1f80b470|https://sub.xfltd.click/api/v1/client/subscribe?token=f33f3e910066bf389a9053c63c0fa6af|https://login.djjc.cfd/api/v1/client/subscribe?token=a3e20fd91ada5215c901b804af9284b4|https://times1747043924.caiyunsub.uk/api/v1/client/subscribe?token=f0b4ae93c5b0f17714597a1c4f0fba0c" \
             -target clash.meta \
-            -config https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/openclash.ini \
-            -new_name clashmeta.yaml
+            -config https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/openclash.ini
+
+      - name: Rename config.yaml to clashmeta.yaml if needed
+        run: |
+          if [ -f config.yaml ]; then
+            mv config.yaml clashmeta.yaml
+          fi
+
+      - name: List generated files
+        run: ls -lah
 
       - name: Commit and Push
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions[bot]"
           git add clashmeta.yaml || true
-          git commit -m "更新 ClashMeta 订阅配置 $(date +'%F %T')" || echo "Nothing to commit"
+          git diff --cached --quiet || git commit -m "更新 ClashMeta 订阅配置 $(date +'%F %T')"
           git push
