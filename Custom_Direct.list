@@ -1,46 +1,29 @@
 # ========================================
 # 🌐 CDN 与镜像加速
 # ========================================
-DOMAIN-SUFFIX,gh-proxy.com
-DOMAIN-SUFFIX,gh.con.sh
-DOMAIN-SUFFIX,gh.ddlc.top
-DOMAIN-SUFFIX,gh.llkk.cc
 DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,ghproxy.cc
 DOMAIN-SUFFIX,ghproxy.cfd
 DOMAIN-SUFFIX,ghps.cc
 DOMAIN-SUFFIX,ghxi.com
-DOMAIN-SUFFIX,ghxi.com,DIRECT
-DOMAIN-SUFFIX,hf-mirror.com
 DOMAIN-SUFFIX,hub.gitmirror.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,kgithub.com
-DOMAIN-SUFFIX,registry.dockermirror.com
 
 # ========================================
 # 🧰 开发者服务（GitHub、Docker 等）
 # ========================================
-DOMAIN-SUFFIX,dhub.kubesre.xyz
 DOMAIN-SUFFIX,docker.1panel.live
 DOMAIN-SUFFIX,docker.kejilion.pro
-DOMAIN-SUFFIX,docker.unsee.tech
-DOMAIN-SUFFIX,dockerpull.org
 DOMAIN-SUFFIX,dockerpull.pw
 DOMAIN-SUFFIX,git.886.be
-DOMAIN-SUFFIX,github.abskoop.workers.dev
 DOMAIN-SUFFIX,github.boki.moe
 DOMAIN-SUFFIX,github.moeyy.xyz
-DOMAIN-SUFFIX,github.site
 DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,hub.crdz.gq
 DOMAIN-SUFFIX,hub.rat.dev
-DOMAIN-SUFFIX,hub.xdark.top
 
 # ========================================
 # 📡 DDNS/IP 回显服务
 # ========================================
-DOMAIN-SUFFIX,api.myip.com
-DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ip6.seeip.org
@@ -70,20 +53,16 @@ DOMAIN-SUFFIX,msftncsi.com
 # ========================================
 # 📺 媒体播放（Emby、IPTV）
 # ========================================
-DOMAIN-SUFFIX,1996999.xyz
-DOMAIN-SUFFIX,cn-music.mefun.vip
-DOMAIN-SUFFIX,ddsrem.com
-DOMAIN-SUFFIX,epg.aptv.app
+
 DOMAIN-SUFFIX,epg.v1.mk
-DOMAIN-SUFFIX,ggbond.org
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,sptv.ii00.cc
 
 # ========================================
 # 🎮 游戏类服务
 # ========================================
-DOMAIN-SUFFIX,game.maj-soul.com
-IP-CIDR,108.174.48.100/32,no-resolve
+
+
 
 # ========================================
 # 📦 常用国内服务
@@ -129,44 +108,29 @@ DOMAIN-SUFFIX,rewards.bing.com
 # ========================================
 # 🧬 个人自定义关键词
 # ========================================
-DOMAIN-KEYWORD,bbs9090
 DOMAIN-KEYWORD,jspoo,DIRECT
 DOMAIN-KEYWORD,nite07,DIRECT
-DOMAIN-KEYWORD,qq9090
 DOMAIN-KEYWORD,qq9090,DIRECT
 DOMAIN-KEYWORD,vrmoo,DIRECT
 DOMAIN-KEYWORD,yeyulingfeng,DIRECT
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
 DOMAIN-SUFFIX,jspoo.com,DIRECT
+DOMAIN-KEYWORD,vrzwk,DIRECT
 
 # ========================================
 # 🧱 其他未分类
 # ========================================
 DOMAIN,154.17.228.98,DIRECT
-DOMAIN,alt1-mtalk.google.com,DIRECT
-DOMAIN,alt2-mtalk.google.com,DIRECT
-DOMAIN,alt3-mtalk.google.com,DIRECT
-DOMAIN,alt4-mtalk.google.com,DIRECT
-DOMAIN,alt5-mtalk.google.com,DIRECT
-DOMAIN,alt6-mtalk.google.com,DIRECT
-DOMAIN,alt7-mtalk.google.com,DIRECT
-DOMAIN,alt8-mtalk.google.com,DIRECT
 DOMAIN,bbs.hassbian.com,DIRECT
 DOMAIN,ccc-x.jd.com,DIRECT
-DOMAIN,clientservices.googleapis.com,DIRECT
-DOMAIN,dl.google.com,DIRECT
-DOMAIN,dl.l.google.com,DIRECT
-DOMAIN,mtalk.google.com,DIRECT
-DOMAIN,update.googleapis.com,DIRECT
 DOMAIN-KEYWORD,attachment,DIRECT
 DOMAIN-KEYWORD,douyin,DIRECT
 DOMAIN-KEYWORD,hassbian,DIRECT
-DOMAIN-SUFFIX,112114.xyz
-DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,423down.com,DIRECT
 DOMAIN-SUFFIX,549.tv
 DOMAIN-SUFFIX,5ddd.com
 DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-KEYWORD,hassbian,DIRECT
 DOMAIN-SUFFIX,attachment.hasstatic.com,DIRECT
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,bgm.tv
@@ -174,17 +138,9 @@ DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,flingtrainer.com
 DOMAIN-SUFFIX,gdcucc.v1.mk
-DOMAIN-SUFFIX,hassbian.com,DIRECT
 DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,jsinfo.net
-DOMAIN-SUFFIX,jsinfo.net,DIRECT
-DOMAIN-SUFFIX,kit327.com
-DOMAIN-SUFFIX,kyarucloud.moe
 DOMAIN-SUFFIX,members.3322.org
-DOMAIN-SUFFIX,n0808.com,DIRECT
-DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,sgtv.ii00.cc
-DOMAIN-SUFFIX,wwwh.eu.org
 DOMAIN-SUFFIX,ypojie.com,DIRECT
 IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,5.5.5.5/32,no-resolve
@@ -193,95 +149,4 @@ IP-CIDR,98.126.27.164/32,no-resolve
 # ========================================
 # 💡 原始注释与保留信息
 # ========================================
-# NAME: Custom_Direct
-# AUTHOR: Aethersailor
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# 强制直连域名列表，来自个人收集
-# 此规则文件中的域名会定期 PR 至 Geosite 数据库，并删除已被 Geosite 收录的域名，因此请在支持 Geosite 的软件（如 OpenClash）中使用。
-# ImmortalWrt 相关
-# GitHub 反代 CDN
-# Docker 反代 CDN
-# Hugging Face 镜像
-# DDNS
-# DOMAIN-SUFFIX,ip-api.com 会影响某些 DNS 泄露检测网站的结果，暂时屏蔽
-# Windows 网络连接探测
-# Kaspersky
-# Akamai CDN
-# FinalShell
-# UniGetUI
-# NTP Pool Project
-# Dell
-# FLiNG Trainer
-# 媒体类规则
-# Emby 小雅 相关
-# Emby 直连
-# MeFun
-# MeFun VIP Porn 资源
-# MeFun VIP General 资源
-# MeFun VIP Music 资源
-# IPTV 相关
-# 游戏类规则
-# 红警重聚 Reunion 2023
-# =======================================
-# 以下是应当直连的冷门国内域名规则
-# =======================================
-# 以下是准备向 GeoSite 上游仓库提交 PR 的国内冷门域名，收录后会删除对应内容
-# ---------------------------------------
-# 以下域名待提交 PR
-# Bangumi番组计划
-# 雀魂麻将
-# MicroSoft Rewards
-# ---------------------------------------
-# 以下域名已提交 PR
-# PR 至 felixonmars/dnsmasq-china-list
-# fnOS
-# PR 至 v2fly/domain-list-community
-# =======================================
-# 以下域名已被 GeoSite 收录，定期删除
-#DOMAIN-SUFFIX,efzhou.com
-#DOMAIN-SUFFIX,buy0596.com
-#DOMAIN-SUFFIX,fzsybj.com
-#DOMAIN-SUFFIX,benfuip.com
-#DOMAIN-SUFFIX,megawords.cc
-#DOMAIN-SUFFIX,agentyun.com
-#DOMAIN-SUFFIX,clangcn.com
-#DOMAIN-SUFFIX,cnppa.org
-#DOMAIN-SUFFIX,wowgf.com
-#DOMAIN-SUFFIX,immersivetranslate.com
-# GoLink 加速器
-#DOMAIN-SUFFIX,golink.com
-#DOMAIN-SUFFIX,golinkapi.com
-#DOMAIN-SUFFIX,golinkcn.com
-# 九九互动
-#DOMAIN-SUFFIX,forevernine.com
-# Watt Toolkit
-#DOMAIN-SUFFIX,rmbgame.net
-# steamcommunity 302
-#DOMAIN-SUFFIX,steam302.xyz 
-# 智慧笑联
-#DOMAIN-SUFFIX,xiaolianhb.com
-# 其他
-#DOMAIN-SUFFIX,xzsmartmetro.com
-#DOMAIN-SUFFIX,xzscjk.com
-# 南方电网
-#DOMAIN-SUFFIX,towngasvcc.com
-#DOMAIN-SUFFIX,gztowngas.com
-# 115
-#DOMAIN-SUFFIX,115vod.com
-# 松下智能家居
-#DOMAIN-SUFFIX,psmartcloud.com
-# 其他
-#DOMAIN-SUFFIX,xiaoting.com
-#DOMAIN-SUFFIX,lvfapiao.com
-#DOMAIN-SUFFIX,jiucaishuo.com
-#DOMAIN-SUFFIX,raining.top
-#DOMAIN-SUFFIX,giecds.com
-#DOMAIN-SUFFIX,mashangfangxin.com
-#DOMAIN-SUFFIX,cdkeynogap.com
-# 么么辰的游戏百宝箱
-#DOMAIN-SUFFIX,memechen.com
-# 其他
-#DOMAIN-SUFFIX,tshell.online
-# 未泱阅读
-#DOMAIN-SUFFIX,winyoungreading.com
-# 更多已被收录的域名，此处未做保留
+
