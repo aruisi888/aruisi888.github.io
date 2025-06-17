@@ -22,3 +22,16 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,mtalk.google.com
 # EA Desktop 云同步
 DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,mtalk.google.com
+DOMAIN,update.googleapis.com
