@@ -38,3 +38,12 @@ jobs:
         git add clashmeta.yaml
         git commit -m "更新合并后的 ClashMeta 订阅配置"
         git push
+            - name: Commit and Push
+        run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "github-actions[bot]"
+        git add clashmeta.yaml || true
+        git commit -m "更新 ClashMeta 订阅配置 $(date +'%F %T')" || echo "Nothing to commit"
+        git push
+
+
