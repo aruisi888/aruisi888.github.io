@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,sptv.ii00.cc
 # ========================================
 # 📦 常用国内服务
 # ========================================
-DOMAIN,xiaohongshu.com,DIRECT
 DOMAIN,ad.xunlei.com,DIRECT
 DOMAIN,biz5-vip-ssl.xunlei.com,DIRECT
 DOMAIN,config.xunlei.com,DIRECT
