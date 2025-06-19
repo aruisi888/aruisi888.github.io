@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,sptv.ii00.cc
 # ========================================
 # 📦 常用国内服务
 # ========================================
+DOMAIN,xiaohongshu.com,DIRECT
 DOMAIN,ad.xunlei.com,DIRECT
 DOMAIN,biz5-vip-ssl.xunlei.com,DIRECT
 DOMAIN,config.xunlei.com,DIRECT
@@ -104,6 +105,7 @@ DOMAIN-SUFFIX,rewards.bing.com
 # ========================================
 # 🧬 个人自定义关键词
 # ========================================
+DOMAIN-KEYWORD,xiaohongshu,DIRECT
 DOMAIN-KEYWORD,jspoo,DIRECT
 DOMAIN-KEYWORD,nite07,DIRECT
 DOMAIN-KEYWORD,qq9090,DIRECT
