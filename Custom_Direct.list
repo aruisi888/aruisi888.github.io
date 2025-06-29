@@ -119,7 +119,7 @@ DOMAIN-KEYWORD,gwdang,DIRECT
 # ========================================
 # 🧱 其他未分类
 # ========================================
-DOMAIN,154.17.228.98,DIRECT
+IP-CIDR,154.17.228.98/32,DIRECT
 DOMAIN,bbs.hassbian.com,DIRECT
 DOMAIN,ccc-x.jd.com,DIRECT
 DOMAIN-KEYWORD,attachment,DIRECT
