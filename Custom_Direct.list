@@ -144,7 +144,7 @@ IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,98.126.27.164/32,no-resolve
 DOMAIN-SUFFIX,hub.gitmirror.DIRECT
 IP-CIDR,154.17.228.98/32,DIRECT
-IP-CIDR,5.5.5.5/32,REJECT,no-resolve
+
 
 # ========================================
 # 💡 原始注释与保留信息
