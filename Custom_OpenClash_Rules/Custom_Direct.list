@@ -5,26 +5,24 @@
 # 此规则文件中的域名会定期 PR 至 Geosite 数据库，并删除已被 Geosite 收录的域名，因此请在支持 Geosite 的软件（如 OpenClash）中使用。
 
 # ========================================
-# 🧬 个人自定义
+# 🧬 个人自定义---2025-7-1---
 # ========================================
-DOMAIN-KEYWORD,xiaohongshu,DIRECT
-DOMAIN-KEYWORD,jspoo,DIRECT
-DOMAIN-KEYWORD,nite07,DIRECT
-DOMAIN-KEYWORD,qq9090,DIRECT
-DOMAIN-KEYWORD,vrmoo,DIRECT
-DOMAIN-KEYWORD,yeyulingfeng,DIRECT
+
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
 DOMAIN-SUFFIX,jspoo.com,DIRECT
-DOMAIN-KEYWORD,vrzwk,DIRECT
 DOMAIN-SUFFIX,gwdang.com,DIRECT
 DOMAIN-SUFFIX,bbs.hassbian.com,DIRECT
 DOMAIN-SUFFIX,549.tv,DIRECT
 DOMAIN-SUFFIX,ypojie.com,DIRECT
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
 DOMAIN-SUFFIX,qq9090.com,DIRECT
-
-
-
+DOMAIN-SUFFIX,jspoo.com,DIRECT
+DOMAIN-SUFFIX,vrzwk.com,DIRECT
+DOMAIN-SUFFIX,423down.com,DIRECT
+DOMAIN-SUFFIX,yeyulingfeng.com,DIRECT
+DOMAIN-SUFFIX,vrmoo.net,DIRECT
+DOMAIN-SUFFIX,qq9090.com,DIRECT
+DOMAIN-SUFFIX,software.nite07.com,DIRECT
 
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
