@@ -1,9 +1,59 @@
 # NAME: Custom_Proxy
 # AUTHOR: Aethersailor
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# 强制代理列表，个人收集
+# 强制代理列表，个人收集7月5日
 
-# OpenClash 首页 IP 地址探测
+DOMAIN-SUFFIX,software.nite07.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
 # GooglePlay 相关
