@@ -1,7 +1,7 @@
 # ========================================
 # 🧬 自定义直连---2025-7-2---
 # ========================================
-
+IP-CIDR,154.17.228.98/32,no-resolve
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
 DOMAIN-SUFFIX,jspoo.com,DIRECT
 DOMAIN-SUFFIX,gwdang.com,DIRECT
