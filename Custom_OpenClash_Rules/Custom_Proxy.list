@@ -1,7 +1,7 @@
 # NAME: Custom_Proxy
 # AUTHOR: Aethersailor
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# 强制代理列表，个人收集7月5日
+# 强制代理列表
 
 DOMAIN-SUFFIX,software.nite07.com
 
