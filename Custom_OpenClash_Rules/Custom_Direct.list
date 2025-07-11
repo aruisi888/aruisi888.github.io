@@ -142,77 +142,7 @@ IP-CIDR,108.174.48.100/32,no-resolve
 DOMAIN-SUFFIX,game.maj-soul.com
 
 # =======================================
-# 以下是应当直连的冷门国内域名规则
-# =======================================
-# ---------------------------------------
-# 以下是准备向 GeoSite 上游仓库提交 PR 的国内冷门域名，收录后会删除对应内容
-# ---------------------------------------
-# 以下域名待提交 PR
 
-# ---------------------------------------
-# 以下域名已提交 PR
-
-# PR 至 felixonmars/dnsmasq-china-list
-DOMAIN-SUFFIX,guanyierp.com
-DOMAIN-SUFFIX,chememall.com
-
-# PR 至 v2fly/domain-list-community
-
-# ---------------------------------------
-# =======================================
-
-# 以下域名已被 GeoSite 收录，定期删除
-#DOMAIN-SUFFIX,astral-vector.com
-#DOMAIN-SUFFIX,ug.link
-#DOMAIN-SUFFIX,moyubuluo.com
-#DOMAIN-SUFFIX,efzhou.com
-#DOMAIN-SUFFIX,buy0596.com
-#DOMAIN-SUFFIX,fzsybj.com
-#DOMAIN-SUFFIX,benfuip.com
-#DOMAIN-SUFFIX,megawords.cc
-#DOMAIN-SUFFIX,agentyun.com
-#DOMAIN-SUFFIX,clangcn.com
-#DOMAIN-SUFFIX,cnppa.org
-#DOMAIN-SUFFIX,wowgf.com
-#DOMAIN-SUFFIX,immersivetranslate.com
-# GoLink 加速器
-#DOMAIN-SUFFIX,golink.com
-#DOMAIN-SUFFIX,golinkapi.com
-#DOMAIN-SUFFIX,golinkcn.com
-# 九九互动
-#DOMAIN-SUFFIX,forevernine.com
-# Watt Toolkit
-#DOMAIN-SUFFIX,rmbgame.net
-# steamcommunity 302
-#DOMAIN-SUFFIX,steam302.xyz 
-# 智慧笑联
-#DOMAIN-SUFFIX,xiaolianhb.com
-# 其他
-#DOMAIN-SUFFIX,xzsmartmetro.com
-#DOMAIN-SUFFIX,xzscjk.com
-# 南方电网
-#DOMAIN-SUFFIX,towngasvcc.com
-#DOMAIN-SUFFIX,gztowngas.com
-# 115
-#DOMAIN-SUFFIX,115vod.com
-# 松下智能家居
-#DOMAIN-SUFFIX,psmartcloud.com
-# 其他
-#DOMAIN-SUFFIX,xiaoting.com
-#DOMAIN-SUFFIX,lvfapiao.com
-#DOMAIN-SUFFIX,jiucaishuo.com
-#DOMAIN-SUFFIX,raining.top
-#DOMAIN-SUFFIX,giecds.com
-#DOMAIN-SUFFIX,mashangfangxin.com
-#DOMAIN-SUFFIX,cdkeynogap.com
-# 么么辰的游戏百宝箱
-#DOMAIN-SUFFIX,memechen.com
-# 其他
-#DOMAIN-SUFFIX,tshell.online
-# 未泱阅读
-#DOMAIN-SUFFIX,winyoungreading.com
-# fnOS
-#DOMAIN-SUFFIX,5ddd.com
 
 # 更多已被收录的域名，此处未做保留
 '+
