@@ -1,7 +1,7 @@
 # ========================================
-# 🧬 自定义直连
+# 🧬 域名直连
 # ========================================
-IP-CIDR,154.17.228.98/32,no-resolve
+
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
 DOMAIN-SUFFIX,jspoo.com,DIRECT
 DOMAIN-SUFFIX,gwdang.com,DIRECT
@@ -31,13 +31,34 @@ DOMAIN-SUFFIX,ddys.site,DIRECT
 DOMAIN-SUFFIX,ddys.move,DIRECT
 DOMAIN-SUFFIX,ddys.love,DIRECT
 DOMAIN-SUFFIX,4kq62z5rby2qupq9ub.top,DIRECT
-DOMAIN-KEYWORD,tvbox,DIRECT
-DOMAIN-KEYWORD,4kq62z5rby2qupq9ub,DIRECT
 DOMAIN-SUFFIX,freedidi.com,DIRECT
 DOMAIN-SUFFIX,kedaxmt.com,DIRECT
 DOMAIN-SUFFIX,2hvr.com,DIRECT
 DOMAIN-SUFFIX,wgzeyu.com,DIRECT
 DOMAIN-SUFFIX,xb6v.com,DIRECT
+
+
+
+# ========================================
+# 🧬 关键字直连
+# ========================================
+DOMAIN-KEYWORD,tvbox,DIRECT
+DOMAIN-KEYWORD,4kq62z5rby2qupq9ub,DIRECT
+DOMAIN-KEYWORD,openlist,DIRECT
+
+
+
+
+
+# ========================================
+# 🧬 IP地址直连
+# ========================================
+IP-CIDR,218.78.7.16/32,no-resolve
+IP-CIDR,98.126.27.164/32,no-resolve
+IP-CIDR,154.17.228.98/32,no-resolve
+
+
+
 
 
 
@@ -127,8 +148,7 @@ DOMAIN-SUFFIX,wwwh.eu.org
 DOMAIN-SUFFIX,1996999.xyz
 # Emby 直连
 # MeFun
-IP-CIDR,218.78.7.16/32,no-resolve
-IP-CIDR,98.126.27.164/32,no-resolve
+
 # MeFun VIP Porn 资源
 DOMAIN-SUFFIX,sptv.ii00.cc
 # MeFun VIP General 资源
