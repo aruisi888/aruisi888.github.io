@@ -1,7 +1,5 @@
-# Generated from rule/Custom_Direct.list
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 77
+# Custom_Direct_Classical.yaml 优化版
+# 来源 https://github.com/Aethersailor/Custom_OpenClash_Rules
 
 payload:
   - DOMAIN-SUFFIX,bbs9090.com,DIRECT
@@ -30,6 +28,11 @@ payload:
   - DOMAIN-KEYWORD,quickconnect,DIRECT
   - DOMAIN-KEYWORD,synology,DIRECT
   - DOMAIN-KEYWORD,vrzwk,DIRECT
+
+  
+  
+  
+  
   
   
   - DOMAIN-SUFFIX,immortalwrt.org
@@ -106,8 +109,7 @@ payload:
   - DOMAIN-SUFFIX,seaflysoft.com
   - DOMAIN-SUFFIX,chujingapp.com
   - IP-CIDR,5.5.5.5/32,no-resolve
-  - IP-CIDR,154.17.228.98/32,no-resolve
   - IP-CIDR,218.78.7.16/32,no-resolve
   - IP-CIDR,98.126.27.164/32,no-resolve
   - IP-CIDR,108.174.48.100/32,no-resolve
-'+
+  - IP-CIDR,154.17.228.98/32,no-resolve
