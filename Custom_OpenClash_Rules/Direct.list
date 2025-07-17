@@ -1,5 +1,3 @@
-# 自定义规则
-
 rules:
   - DOMAIN-SUFFIX,bbs9090.com,DIRECT
   - DOMAIN-SUFFIX,jspoo.com,DIRECT
