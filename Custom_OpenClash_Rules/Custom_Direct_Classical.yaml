@@ -1,39 +1,9 @@
-#自定义直连
+# Generated from rule/Custom_Direct.list
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
+# TOTAL: 77
 
-  - DOMAIN-SUFFIX,bbs9090.com,DIRECT
-  - DOMAIN-SUFFIX,jspoo.com,DIRECT
-  - OMAIN-SUFFIX,gwdang.com,DIRECT
-  - DOMAIN-SUFFIX,549.tv,DIRECT
-  - DOMAIN-SUFFIX,ypojie.com,DIRECT
-  - DOMAIN-SUFFIX,qq9090.com,DIRECT
-  - DOMAIN-SUFFIX,vrmoo.net,DIRECT
-  - DOMAIN-SUFFIX,btsj6.com,DIRECT
-  - DOMAIN-SUFFIX,yysub.net,DIRECT
-  - DOMAIN-SUFFIX,czzymovie.com,DIRECT
-  - DOMAIN-SUFFIX,libvio.site,DIRECT
-  - DOMAIN-SUFFIX,novipnoad.net,DIRECT
-  - DOMAIN-SUFFIX,xl01.com.de,DIRECT
-  - DOMAIN-SUFFIX,subhd.tv,DIRECT
-  - DOMAIN-SUFFIX,hidns.vip,DIRECT
-  - DOMAIN-SUFFIX,ddys.pro,DIRECT
-  - DOMAIN-SUFFIX,ddys.site,DIRECT
-  - DOMAIN-SUFFIX,ddys.love,DIRECT
-  - DOMAIN-SUFFIX,freedidi.com,DIRECT
-  - DOMAIN-SUFFIX,kedaxmt.com,DIRECT
-  - DOMAIN-SUFFIX,2hvr.com,DIRECT
-  - DOMAIN-KEYWORD,tvbox,DIRECT
-  - DOMAIN-KEYWORD,openlist,DIRECT
-  - DOMAIN-KEYWORD,quickconnect,DIRECT
-  - DOMAIN-KEYWORD,synology,DIRECT
-  - DOMAIN-KEYWORD,vrzwk,DIRECT
-
-
-
-
-  
-
-
-
+payload:
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,kyarucloud.moe
   - DOMAIN-SUFFIX,gh-proxy.com
@@ -90,6 +60,7 @@
   - DOMAIN-SUFFIX,ggbond.org
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,wwwh.eu.org
+  - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,sptv.ii00.cc
   - DOMAIN-SUFFIX,sgtv.ii00.cc
   - DOMAIN-SUFFIX,cn-music.mefun.vip
@@ -110,6 +81,4 @@
   - IP-CIDR,218.78.7.16/32,no-resolve
   - IP-CIDR,98.126.27.164/32,no-resolve
   - IP-CIDR,108.174.48.100/32,no-resolve
-  - IP-CIDR,154.17.228.98/32,DIRECT
-
 '+
