@@ -1,41 +1,39 @@
-# ========================================
-# 🧬 域名直连
-# ========================================
-DOMAIN-SUFFIX,bbs9090.com,DIRECT
-DOMAIN-SUFFIX,jspoo.com,DIRECT
-DOMAIN-SUFFIX,gwdang.com,DIRECT
-DOMAIN-SUFFIX,549.tv,DIRECT
-DOMAIN-SUFFIX,ypojie.com,DIRECT
-DOMAIN-SUFFIX,qq9090.com,DIRECT
-DOMAIN-SUFFIX,vrmoo.net,DIRECT
-DOMAIN-SUFFIX,btsj6.com,DIRECT
-DOMAIN-SUFFIX,yysub.net,DIRECT
-DOMAIN-SUFFIX,czzymovie.com,DIRECT
-DOMAIN-SUFFIX,libvio.site,DIRECT
-DOMAIN-SUFFIX,novipnoad.net,DIRECT
-DOMAIN-SUFFIX,xl01.com.de,DIRECT
-DOMAIN-SUFFIX,subhd.tv,DIRECT
-DOMAIN-SUFFIX,hidns.vip,DIRECT
-DOMAIN-SUFFIX,ddys.pro,DIRECT
-DOMAIN-SUFFIX,ddys.site,DIRECT
-DOMAIN-SUFFIX,ddys.love,DIRECT
-DOMAIN-SUFFIX,freedidi.com,DIRECT
-DOMAIN-SUFFIX,kedaxmt.com,DIRECT
-DOMAIN-SUFFIX,2hvr.com,DIRECT
+# 🧬 自定义直连
 
-
-# ========================================
-# 🌈 关键字直连
-# ========================================
-DOMAIN-KEYWORD,tvbox,DIRECT
-DOMAIN-KEYWORD,openlist,DIRECT
-DOMAIN-KEYWORD,quickconnect,DIRECT
-DOMAIN-KEYWORD,synology,DIRECT
-DOMAIN-KEYWORD,vrzwk,DIRECT
+  - DOMAIN-SUFFIX,bbs9090.com,DIRECT
+  - DOMAIN-SUFFIX,jspoo.com,DIRECT
+  - OMAIN-SUFFIX,gwdang.com,DIRECT
+  - DOMAIN-SUFFIX,549.tv,DIRECT
+  - DOMAIN-SUFFIX,ypojie.com,DIRECT
+  - DOMAIN-SUFFIX,qq9090.com,DIRECT
+  - DOMAIN-SUFFIX,vrmoo.net,DIRECT
+  - DOMAIN-SUFFIX,btsj6.com,DIRECT
+  - DOMAIN-SUFFIX,yysub.net,DIRECT
+  - DOMAIN-SUFFIX,czzymovie.com,DIRECT
+  - DOMAIN-SUFFIX,libvio.site,DIRECT
+  - DOMAIN-SUFFIX,novipnoad.net,DIRECT
+  - DOMAIN-SUFFIX,xl01.com.de,DIRECT
+  - DOMAIN-SUFFIX,subhd.tv,DIRECT
+  - DOMAIN-SUFFIX,hidns.vip,DIRECT
+  - DOMAIN-SUFFIX,ddys.pro,DIRECT
+  - DOMAIN-SUFFIX,ddys.site,DIRECT
+  - DOMAIN-SUFFIX,ddys.love,DIRECT
+  - DOMAIN-SUFFIX,freedidi.com,DIRECT
+  - DOMAIN-SUFFIX,kedaxmt.com,DIRECT
+  - DOMAIN-SUFFIX,2hvr.com,DIRECT
+  - DOMAIN-KEYWORD,tvbox,DIRECT
+  - DOMAIN-KEYWORD,openlist,DIRECT
+  - DOMAIN-KEYWORD,quickconnect,DIRECT
+  - DOMAIN-KEYWORD,synology,DIRECT
+  - DOMAIN-KEYWORD,vrzwk,DIRECT
 
 
 
-payload:
+
+  
+
+
+
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,kyarucloud.moe
   - DOMAIN-SUFFIX,gh-proxy.com
