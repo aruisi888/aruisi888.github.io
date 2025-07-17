@@ -1,0 +1,153 @@
+# ========================================
+# 🌐 CDN 与镜像加速
+# ========================================
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-SUFFIX,ghproxy.cfd
+DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,ghxi.com
+DOMAIN-SUFFIX,hub.gitmirror.com
+
+# ========================================
+# 🧰 开发者服务（GitHub、Docker 等）
+# ========================================
+DOMAIN-SUFFIX,docker.1panel.live
+DOMAIN-SUFFIX,docker.kejilion.pro
+DOMAIN-SUFFIX,dockerpull.pw
+DOMAIN-SUFFIX,hub.crdz.gq
+DOMAIN-SUFFIX,hub.rat.dev
+
+# ========================================
+# 📡 DDNS/IP 回显服务
+# ========================================
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ipinfo.io
+
+# ========================================
+# 🖥️ NAS 与家庭网络
+# ========================================
+DOMAIN,router.xunlei.com,DIRECT
+DOMAIN-KEYWORD,lmlla,DIRECT
+DOMAIN-KEYWORD,lmscunb,DIRECT
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,lmlla.lmscunb.pro,DIRECT
+
+# ========================================
+# 🧪 系统与安全（微软、Kaspersky、NCSI 等）
+# ========================================
+DOMAIN-KEYWORD,microsoft,DIRECT
+DOMAIN-KEYWORD,windows,DIRECT
+DOMAIN-SUFFIX,kaspersky-labs.com
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# ========================================
+# 📺 媒体播放（Emby、IPTV）
+# ========================================
+
+DOMAIN-SUFFIX,epg.v1.mk
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,sptv.ii00.cc
+
+# ========================================
+# 🎮 游戏类服务
+# ========================================
+
+
+
+# ========================================
+# 📦 常用国内服务
+# ========================================
+DOMAIN,ad.xunlei.com,DIRECT
+DOMAIN,biz5-vip-ssl.xunlei.com,DIRECT
+DOMAIN,config.xunlei.com,DIRECT
+DOMAIN,count-vip.xunlei.com,DIRECT
+DOMAIN,dynamic.vip.xunlei.com,DIRECT
+DOMAIN,i.xunlei.com,DIRECT
+DOMAIN,lixian.vip.xunlei.com,DIRECT
+DOMAIN,login.xunlei.com,DIRECT
+DOMAIN,p2sp.xunlei.com,DIRECT
+DOMAIN,push-ssl.xunlei.com,DIRECT
+DOMAIN,resource.vip.xunlei.com,DIRECT
+DOMAIN,search-ssl.xunlei.com,DIRECT
+DOMAIN,static.vip.xunlei.com,DIRECT
+DOMAIN,up.xunlei.com,DIRECT
+DOMAIN,update.xunlei.com,DIRECT
+DOMAIN,upgrade.xunlei.com,DIRECT
+DOMAIN,xl9.xlmc.sandai.net,DIRECT
+DOMAIN,xluser.xunlei.com,DIRECT
+DOMAIN-KEYWORD,huya,DIRECT
+DOMAIN-SUFFIX,downloadbt.com,DIRECT
+DOMAIN-SUFFIX,qlogo.cn,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,sandai.net,DIRECT
+DOMAIN-SUFFIX,xlpan.com,DIRECT
+DOMAIN-SUFFIX,xunlei.com,DIRECT
+
+# ========================================
+# 🔍 搜索与办公平台
+# ========================================
+DOMAIN-SUFFIX,bing.com,DIRECT
+DOMAIN-SUFFIX,live.com,DIRECT
+DOMAIN-SUFFIX,msn.com,DIRECT
+DOMAIN-SUFFIX,ntp.org,DIRECT
+DOMAIN-SUFFIX,office.com,DIRECT
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,redhat.com,DIRECT
+DOMAIN-SUFFIX,rewards.bing.com
+
+# ========================================
+# 🧬 个人自定义关键词
+# ========================================
+DOMAIN-KEYWORD,xiaohongshu,DIRECT
+DOMAIN-KEYWORD,jspoo,DIRECT
+DOMAIN-KEYWORD,nite07,DIRECT
+DOMAIN-KEYWORD,qq9090,DIRECT
+DOMAIN-KEYWORD,vrmoo,DIRECT
+DOMAIN-KEYWORD,yeyulingfeng,DIRECT
+DOMAIN-SUFFIX,bbs9090.com,DIRECT
+DOMAIN-SUFFIX,jspoo.com,DIRECT
+DOMAIN-KEYWORD,vrzwk,DIRECT
+DOMAIN-SUFFIX,gwdang.com,DIRECT
+DOMAIN-KEYWORD,gwdang,DIRECT
+
+# ========================================
+# 🧱 其他未分类
+# ========================================
+DOMAIN,bbs.hassbian.com,DIRECT
+DOMAIN,ccc-x.jd.com,DIRECT
+DOMAIN-KEYWORD,attachment,DIRECT
+DOMAIN-KEYWORD,douyin,DIRECT
+DOMAIN-KEYWORD,hassbian,DIRECT
+DOMAIN-SUFFIX,423down.com,DIRECT
+DOMAIN-SUFFIX,549.tv
+DOMAIN-SUFFIX,5ddd.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-KEYWORD,hassbian,DIRECT
+DOMAIN-SUFFIX,attachment.hasstatic.com,DIRECT
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,chii.in
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,flingtrainer.com
+DOMAIN-SUFFIX,gdcucc.v1.mk
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,members.3322.org
+DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN-SUFFIX,ypojie.com,DIRECT
+IP-CIDR,218.78.7.16/32,no-resolve
+IP-CIDR,98.126.27.164/32,no-resolve
+DOMAIN-SUFFIX,hub.gitmirror.DIRECT
+IP-CIDR,5.5.5.5/32,no-resolve
+IP-CIDR,154.17.228.98/32,DIRECT
+
+
+# ========================================
+# 💡 原始注释与保留信息
+# ========================================
+
