@@ -62,13 +62,6 @@ IP-CIDR,154.17.228.98/32,no-resolve
 
 
 
-
-
-
-
-
-
-
 # ImmortalWrt 相关
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,kyarucloud.moe
@@ -170,5 +163,4 @@ DOMAIN-SUFFIX,freetv.top
 # 游戏类规则
 
 
-# =======================================
 
