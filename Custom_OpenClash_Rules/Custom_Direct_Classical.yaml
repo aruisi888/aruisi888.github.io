@@ -1,7 +1,6 @@
-# Custom_Direct_Classical.yaml 优化版
-# 来源 https://github.com/Aethersailor/Custom_OpenClash_Rules
+# 自定义规则
 
-payload:
+rules:
   - DOMAIN-SUFFIX,bbs9090.com,DIRECT
   - DOMAIN-SUFFIX,jspoo.com,DIRECT
   - DOMAIN-SUFFIX,gwdang.com,DIRECT
@@ -28,7 +27,8 @@ payload:
   - DOMAIN-KEYWORD,quickconnect,DIRECT
   - DOMAIN-KEYWORD,synology,DIRECT
   - DOMAIN-KEYWORD,vrzwk,DIRECT
-
+  
+  
   
   
   
@@ -112,3 +112,8 @@ payload:
   - IP-CIDR,98.126.27.164/32,no-resolve
   - IP-CIDR,108.174.48.100/32,no-resolve
   - IP-CIDR,154.17.228.98/32,no-resolve
+  
+  
+  
+  
+  
