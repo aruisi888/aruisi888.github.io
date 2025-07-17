@@ -1,187 +1,84 @@
-# ========================================
-# 🧬 域名直连
-# ========================================
-DOMAIN-SUFFIX,bbs9090.com,DIRECT
-DOMAIN-SUFFIX,jspoo.com,DIRECT
-DOMAIN-SUFFIX,gwdang.com,DIRECT
-DOMAIN-SUFFIX,bbs.hassbian.com,DIRECT
-DOMAIN-SUFFIX,549.tv,DIRECT
-DOMAIN-SUFFIX,ypojie.com,DIRECT
-DOMAIN-SUFFIX,qq9090.com,DIRECT
-DOMAIN-SUFFIX,vrzwk.com,DIRECT
-DOMAIN-SUFFIX,423down.com,DIRECT
-DOMAIN-SUFFIX,yeyulingfeng.com,DIRECT
-DOMAIN-SUFFIX,vrmoo.net,DIRECT
-DOMAIN-SUFFIX,ghxi.com,DIRECT
-DOMAIN-SUFFIX,btsj6.com,DIRECT
-DOMAIN-SUFFIX,yysub.net,DIRECT
-DOMAIN-SUFFIX,assrt.net,DIRECT
-DOMAIN-SUFFIX,czzymovie.com,DIRECT
-DOMAIN-SUFFIX,libvio.pro,DIRECT
-DOMAIN-SUFFIX,novipnoad.net,DIRECT
-DOMAIN-SUFFIX,xl01.com.de,DIRECT
-DOMAIN-SUFFIX,subhd.tv,DIRECT
-DOMAIN-SUFFIX,hidns.vip,DIRECT
-DOMAIN-SUFFIX,dayanzai.me,DIRECT
-DOMAIN-SUFFIX,ddys.pro,DIRECT
-DOMAIN-SUFFIX,ddys.site,DIRECT
-DOMAIN-SUFFIX,ddys.move,DIRECT
-DOMAIN-SUFFIX,ddys.love,DIRECT
-DOMAIN-SUFFIX,freedidi.com,DIRECT
-DOMAIN-SUFFIX,kedaxmt.com,DIRECT
-DOMAIN-SUFFIX,2hvr.com,DIRECT
-DOMAIN-SUFFIX,wgzeyu.com,DIRECT
-DOMAIN-SUFFIX,xb6v.com,DIRECT
+# Generated from rule/Custom_Direct.list
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
+# TOTAL: 77
 
-
-# ========================================
-# 🌈 关键字直连
-# ========================================
-DOMAIN-KEYWORD,tvbox,DIRECT
-DOMAIN-KEYWORD,openlist,DIRECT
-DOMAIN-KEYWORD,hassbian,DIRECT
-DOMAIN-KEYWORD,quickconnect,DIRECT
-DOMAIN-KEYWORD,synology,DIRECT
-DOMAIN-KEYWORD,jspoo,DIRECT
-DOMAIN-KEYWORD,qq9090,DIRECT
-DOMAIN-KEYWORD,vrmoo,DIRECT
-DOMAIN-KEYWORD,vrzwk,DIRECT
-DOMAIN-KEYWORD,yeyulingfeng,DIRECT
-DOMAIN-KEYWORD,nite07,DIRECT
-DOMAIN-KEYWORD,attachment,DIRECT
-
-
-# ========================================
-# 🧬 IP 直连
-# ========================================
-IP-CIDR,218.78.7.16/32,no-resolve
-IP-CIDR,98.126.27.164/32,no-resolve
-IP-CIDR,154.17.228.98/32,no-resolve
-IP-CIDR,5.5.5.5/32,no-resolve
-
-
-# ========================================
-# 📻 小米
-# ========================================
-DOMAIN-SUFFIX,xiaomi.com,DIRECT
-DOMAIN-SUFFIX,mi.com,DIRECT
-DOMAIN-SUFFIX,miwifi.com,DIRECT
-DOMAIN-SUFFIX,mifile.cn,DIRECT
-
-
-# ========================================
-# 🖥 群晖 NAS
-# ========================================
-DOMAIN-SUFFIX,synology.com,DIRECT
-DOMAIN-SUFFIX,download.synology.com,DIRECT
-DOMAIN-SUFFIX,global.download.synology.com,DIRECT
-
-
-# ========================================
-# ⚙ MosDNS & OpenClash 控制面板
-# ========================================
-DOMAIN-SUFFIX,yacd.ha.com,DIRECT
-DOMAIN-SUFFIX,mosdns.local,DIRECT
-
-
-# ========================================
-# 🛠️ 开发者服务（GitHub/Docker/镜像加速）
-# ========================================
-DOMAIN-SUFFIX,jsdelivr.net,DIRECT
-DOMAIN-SUFFIX,immortalwrt.org,DIRECT
-DOMAIN-SUFFIX,kgithub.com,DIRECT
-DOMAIN-SUFFIX,gh-proxy.com,DIRECT
-DOMAIN-SUFFIX,gh.con.sh,DIRECT
-DOMAIN-SUFFIX,gh.ddlc.top,DIRECT
-DOMAIN-SUFFIX,gh.llkk.cc,DIRECT
-DOMAIN-SUFFIX,ghproxy.cc,DIRECT
-DOMAIN-SUFFIX,ghproxy.cfd,DIRECT
-DOMAIN-SUFFIX,ghps.cc,DIRECT
-DOMAIN-SUFFIX,hub.gitmirror.com,DIRECT
-DOMAIN-SUFFIX,hub.crdz.gq,DIRECT
-DOMAIN-SUFFIX,hub.rat.dev,DIRECT
-DOMAIN-SUFFIX,dockerpull.pw,DIRECT
-DOMAIN-SUFFIX,registry.dockermirror.com,DIRECT
-
-
-# ========================================
-# 📡 DDNS / 公网 IP 回显服务
-# ========================================
-DOMAIN-SUFFIX,checkip.dyndns.org,DIRECT
-DOMAIN-SUFFIX,checkipv6.dyndns.org,DIRECT
-DOMAIN-SUFFIX,ifconfig.co,DIRECT
-DOMAIN-SUFFIX,api.myip.com,DIRECT
-DOMAIN-SUFFIX,ipapi.co,DIRECT
-DOMAIN-SUFFIX,ip6.seeip.org,DIRECT
-DOMAIN-SUFFIX,ipinfo.io,DIRECT
-DOMAIN-SUFFIX,kit327.com,DIRECT
-DOMAIN-SUFFIX,members.3322.org,DIRECT
-
-
-# ========================================
-# 🛡️ 系统与安全
-# ========================================
-DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
-DOMAIN-SUFFIX,msftncsi.com,DIRECT
-DOMAIN-SUFFIX,kaspersky.com,DIRECT
-DOMAIN-SUFFIX,kaspersky-labs.com,DIRECT
-
-
-# ========================================
-# 🖥️ 局域网与家庭网络
-# ========================================
-DOMAIN,router.xunlei.com,DIRECT
-DOMAIN-KEYWORD,lmlla,DIRECT
-DOMAIN-KEYWORD,lmscunb,DIRECT
-DOMAIN-SUFFIX,lmlla.lmscunb.pro,DIRECT
-
-
-# ========================================
-# 🎬 媒体播放（Emby、IPTV、Bangumi）
-# ========================================
-DOMAIN-SUFFIX,ddsrem.com,DIRECT
-DOMAIN-SUFFIX,ggbond.org,DIRECT
-DOMAIN-SUFFIX,nn.ci,DIRECT
-DOMAIN-SUFFIX,1996999.xyz,DIRECT
-DOMAIN-SUFFIX,bgm.tv,DIRECT
-DOMAIN-SUFFIX,chii.in,DIRECT
-DOMAIN-SUFFIX,bangumi.tv,DIRECT
-DOMAIN-SUFFIX,freetv.top,DIRECT
-DOMAIN-SUFFIX,epg.v1.mk,DIRECT
-DOMAIN-SUFFIX,gdcucc.v1.mk,DIRECT
-
-
-# ========================================
-# 📦 常用国内服务（迅雷/腾讯/华为等）
-# ========================================
-DOMAIN-SUFFIX,xunlei.com,DIRECT
-DOMAIN-SUFFIX,sandai.net,DIRECT
-DOMAIN-SUFFIX,xlpan.com,DIRECT
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,qlogo.cn,DIRECT
-DOMAIN-SUFFIX,huya.com,DIRECT
-DOMAIN-SUFFIX,huan.tv,DIRECT
-DOMAIN-SUFFIX,ctyun.huan.tv,DIRECT
-
-
-# ========================================
-# 🔍 搜索与办公
-# ========================================
-DOMAIN-SUFFIX,bing.com,DIRECT
-DOMAIN-SUFFIX,live.com,DIRECT
-DOMAIN-SUFFIX,msn.com,DIRECT
-DOMAIN-SUFFIX,office.com,DIRECT
-DOMAIN-SUFFIX,redhat.com,DIRECT
-
-
-
-# ========================================
-# 🧱 其他特殊规则
-# ========================================
-DOMAIN-SUFFIX,akamaihd.net,DIRECT
-DOMAIN-SUFFIX,dell.com,DIRECT
-DOMAIN-SUFFIX,flingtrainer.com,DIRECT
-DOMAIN-SUFFIX,pool.ntp.org,DIRECT
-
-# 💡 保留注释：以下规则根据需要自行添加
+payload:
+  - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,kyarucloud.moe
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,gh.con.sh
+  - DOMAIN-SUFFIX,gh.ddlc.top
+  - DOMAIN-SUFFIX,gh.llkk.cc
+  - DOMAIN-SUFFIX,ghp.ci
+  - DOMAIN-SUFFIX,ghproxy.cc
+  - DOMAIN-SUFFIX,ghproxy.cfd
+  - DOMAIN-SUFFIX,ghps.cc
+  - DOMAIN-SUFFIX,git.886.be
+  - DOMAIN-SUFFIX,github.abskoop.workers.dev
+  - DOMAIN-SUFFIX,github.boki.moe
+  - DOMAIN-SUFFIX,github.moeyy.xyz
+  - DOMAIN-SUFFIX,github.site
+  - DOMAIN-SUFFIX,github.store
+  - DOMAIN-SUFFIX,hub.gitmirror.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,kgithub.com
+  - DOMAIN-SUFFIX,docker.1panel.live
+  - DOMAIN-SUFFIX,docker.kejilion.pro
+  - DOMAIN-SUFFIX,docker.unsee.tech
+  - DOMAIN-SUFFIX,dockerpull.pw
+  - DOMAIN-SUFFIX,dockerpull.org
+  - DOMAIN-SUFFIX,dhub.kubesre.xyz
+  - DOMAIN-SUFFIX,hub.crdz.gq
+  - DOMAIN-SUFFIX,hub.rat.dev
+  - DOMAIN-SUFFIX,hub.xdark.top
+  - DOMAIN-SUFFIX,registry.dockermirror.com
+  - DOMAIN-SUFFIX,hf-mirror.com
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-SUFFIX,checkip.dyndns.org
+  - DOMAIN-SUFFIX,checkipv6.dyndns.org
+  - DOMAIN-SUFFIX,ifconfig.co
+  - DOMAIN-SUFFIX,api.myip.com
+  - DOMAIN-SUFFIX,giveup.top
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ip6.seeip.org
+  - DOMAIN-SUFFIX,kit327.com
+  - DOMAIN-SUFFIX,members.3322.org
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,kaspersky.com
+  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,powershellgallery.com
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,rewards.bing.com
+  - DOMAIN-SUFFIX,flingtrainer.com
+  - DOMAIN-SUFFIX,ddsrem.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ggbond.org
+  - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,wwwh.eu.org
+  - DOMAIN-SUFFIX,1996999.xyz
+  - DOMAIN-SUFFIX,sptv.ii00.cc
+  - DOMAIN-SUFFIX,sgtv.ii00.cc
+  - DOMAIN-SUFFIX,cn-music.mefun.vip
+  - DOMAIN-SUFFIX,112114.xyz
+  - DOMAIN-SUFFIX,epg.v1.mk
+  - DOMAIN-SUFFIX,epg.aptv.app
+  - DOMAIN-SUFFIX,gdcucc.v1.mk
+  - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,chii.in
+  - DOMAIN-SUFFIX,bangumi.tv
+  - DOMAIN-SUFFIX,freetv.top
+  - DOMAIN-SUFFIX,game.maj-soul.com
+  - DOMAIN-SUFFIX,seedpace.com
+  - DOMAIN-SUFFIX,qiaoxuesi.com
+  - DOMAIN-SUFFIX,seaflysoft.com
+  - DOMAIN-SUFFIX,chujingapp.com
+  - IP-CIDR,5.5.5.5/32,no-resolve
+  - IP-CIDR,218.78.7.16/32,no-resolve
+  - IP-CIDR,98.126.27.164/32,no-resolve
+  - IP-CIDR,108.174.48.100/32,no-resolve
 '+
