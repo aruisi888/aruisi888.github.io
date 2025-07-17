@@ -183,4 +183,4 @@ DOMAIN-SUFFIX,dell.com,DIRECT
 DOMAIN-SUFFIX,flingtrainer.com,DIRECT
 DOMAIN-SUFFIX,pool.ntp.org,DIRECT
 
-# 💡 保留注释：以下规则根据需要自行添加
+# 💡 以下规则根据需要自行添加
