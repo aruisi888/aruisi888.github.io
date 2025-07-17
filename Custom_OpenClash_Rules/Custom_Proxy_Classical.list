@@ -1,9 +1,4 @@
-# Generated from rule/Custom_Proxy.list
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Proxy.list
-# TOTAL: 17
-
-payload:
+rules:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,services.googleapis.cn
