@@ -54,10 +54,10 @@ DOMAIN-KEYWORD,attachment,DIRECT
 # ========================================
 # 🧬 IP 直连
 # ========================================
-IP-CIDR,218.78.7.16/32,DIRECT
-IP-CIDR,98.126.27.164/32,DIRECT
-IP-CIDR,154.17.228.98/32,DIRECT
-IP-CIDR,5.5.5.5/32,DIRECT   # FinalShell 专用
+IP-CIDR,218.78.7.16/32,no-resolve
+IP-CIDR,98.126.27.164/32,no-resolve
+IP-CIDR,154.17.228.98/32,no-resolve
+IP-CIDR,5.5.5.5/32,no-resolve   # FinalShell 专用
 
 
 # ========================================
