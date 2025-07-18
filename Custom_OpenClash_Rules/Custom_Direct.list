@@ -1,5 +1,5 @@
 # ========================================
-# 🧬 域名直连
+#  🖥 域名直连
 # ========================================
 
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
@@ -27,34 +27,38 @@ DOMAIN-SUFFIX,ddys.pro,DIRECT
 DOMAIN-SUFFIX,ddys.site,DIRECT
 DOMAIN-SUFFIX,ddys.move,DIRECT
 DOMAIN-SUFFIX,ddys.love,DIRECT
-DOMAIN-SUFFIX,4kq62z5rby2qupq9ub.top,DIRECT
 DOMAIN-SUFFIX,freedidi.com,DIRECT
 DOMAIN-SUFFIX,kedaxmt.com,DIRECT
 DOMAIN-SUFFIX,2hvr.com,DIRECT
 DOMAIN-SUFFIX,wgzeyu.com,DIRECT
 DOMAIN-SUFFIX,xb6v.com,DIRECT
 
+
+
+
 # ========================================
-# 🧬 关键字直连
+#  💽 关键字直连
 # ========================================
 DOMAIN-KEYWORD,tvbox,DIRECT
 DOMAIN-KEYWORD,4kq62z5rby2qupq9ub,DIRECT
 DOMAIN-KEYWORD,openlist,DIRECT
 
+
+
+
 # ========================================
-# 🧬 IP地址直连
+#  📀 IP地址直连
 # ========================================
 IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,98.126.27.164/32,no-resolve
 IP-CIDR,154.17.228.98/32,no-resolve
 
-# ========================================
-# ImmortalWrt 相关
-# ========================================
-DOMAIN-SUFFIX,immortalwrt.org,DIRECT
-DOMAIN-SUFFIX,kyarucloud.moe,DIRECT
 
-# GitHub 反代 CDN
+
+
+# ========================================
+# 💿 GitHub 反代 CDN
+# ========================================
 DOMAIN-SUFFIX,gh-proxy.com,DIRECT
 DOMAIN-SUFFIX,gh.con.sh,DIRECT
 DOMAIN-SUFFIX,gh.ddlc.top,DIRECT
@@ -73,90 +77,9 @@ DOMAIN-SUFFIX,hub.gitmirror.com,DIRECT
 DOMAIN-SUFFIX,jsdelivr.net,DIRECT
 DOMAIN-SUFFIX,kgithub.com,DIRECT
 
-# Docker 反代 CDN
-DOMAIN-SUFFIX,docker.1panel.live,DIRECT
-DOMAIN-SUFFIX,docker.kejilion.pro,DIRECT
-DOMAIN-SUFFIX,docker.unsee.tech,DIRECT
-DOMAIN-SUFFIX,dockerpull.pw,DIRECT
-DOMAIN-SUFFIX,dockerpull.org,DIRECT
-DOMAIN-SUFFIX,dhub.kubesre.xyz,DIRECT
-DOMAIN-SUFFIX,hub.crdz.gq,DIRECT
-DOMAIN-SUFFIX,hub.rat.dev,DIRECT
-DOMAIN-SUFFIX,hub.xdark.top,DIRECT
-DOMAIN-SUFFIX,registry.dockermirror.com,DIRECT
 
-# Hugging Face 镜像
-DOMAIN-SUFFIX,hf-mirror.com,DIRECT
 
-# DDNS
-DOMAIN-KEYWORD,synology,DIRECT
-DOMAIN-KEYWORD,quickconnect,DIRECT
-DOMAIN-SUFFIX,checkip.dyndns.org,DIRECT
-DOMAIN-SUFFIX,checkipv6.dyndns.org,DIRECT
-DOMAIN-SUFFIX,ifconfig.co,DIRECT
-DOMAIN-SUFFIX,api.myip.com,DIRECT
-DOMAIN-SUFFIX,ipapi.co,DIRECT
-DOMAIN-SUFFIX,ip6.seeip.org,DIRECT
-DOMAIN-SUFFIX,kit327.com,DIRECT
-DOMAIN-SUFFIX,members.3322.org,DIRECT
 
-# Windows 网络连接探测
-DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
-DOMAIN-SUFFIX,msftncsi.com,DIRECT
 
-# Kaspersky
-DOMAIN-SUFFIX,kaspersky.com,DIRECT
-DOMAIN-SUFFIX,kaspersky-labs.com,DIRECT
 
-# Akamai CDN
-DOMAIN-SUFFIX,akamaihd.net,DIRECT
 
-# FinalShell
-IP-CIDR,5.5.5.5/32,no-resolve
-
-# UniGetUI
-DOMAIN-SUFFIX,powershellgallery.com,DIRECT
-
-# NTP Pool Project
-DOMAIN-SUFFIX,pool.ntp.org,DIRECT
-
-# Dell
-DOMAIN-SUFFIX,dell.com,DIRECT
-
-# MicroSoft Rewards
-DOMAIN-SUFFIX,rewards.bing.com,DIRECT
-
-# FLiNG Trainer
-DOMAIN-SUFFIX,flingtrainer.com,DIRECT
-
-# 媒体类规则
-# Emby 小雅 相关
-DOMAIN-SUFFIX,ddsrem.com,DIRECT
-DOMAIN-SUFFIX,ipinfo.io,DIRECT
-DOMAIN-SUFFIX,ggbond.org,DIRECT
-DOMAIN-SUFFIX,nn.ci,DIRECT
-DOMAIN-SUFFIX,wwwh.eu.org,DIRECT
-DOMAIN-SUFFIX,1996999.xyz,DIRECT
-
-# MeFun VIP Porn 资源
-DOMAIN-SUFFIX,sptv.ii00.cc,DIRECT
-
-# MeFun VIP General 资源
-DOMAIN-SUFFIX,sgtv.ii00.cc,DIRECT
-
-# MeFun VIP Music 资源
-DOMAIN-SUFFIX,cn-music.mefun.vip,DIRECT
-
-# IPTV 相关
-DOMAIN-SUFFIX,112114.xyz,DIRECT
-DOMAIN-SUFFIX,epg.v1.mk,DIRECT
-DOMAIN-SUFFIX,epg.aptv.app,DIRECT
-DOMAIN-SUFFIX,gdcucc.v1.mk,DIRECT
-
-# Bangumi番组计划
-DOMAIN-SUFFIX,bgm.tv,DIRECT
-DOMAIN-SUFFIX,chii.in,DIRECT
-DOMAIN-SUFFIX,bangumi.tv,DIRECT
-
-# 肥羊 All in One
-DOMAIN-SUFFIX,freetv.top,DIRECT
