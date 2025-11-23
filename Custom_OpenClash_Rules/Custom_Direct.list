@@ -5,39 +5,17 @@
 DOMAIN-SUFFIX,bbs9090.com,DIRECT
 DOMAIN-SUFFIX,jspoo.com,DIRECT
 DOMAIN-SUFFIX,gwdang.com,DIRECT
-DOMAIN-SUFFIX,549.tv,DIRECT
 DOMAIN-SUFFIX,ypojie.com,DIRECT
 DOMAIN-SUFFIX,qq9090.com,DIRECT
-DOMAIN-SUFFIX,423down.com,DIRECT
 DOMAIN-SUFFIX,yeyulingfeng.com,DIRECT
-DOMAIN-SUFFIX,ghxi.com,DIRECT
 DOMAIN-SUFFIX,btsj6.com,DIRECT
-DOMAIN-SUFFIX,czzymovie.com,DIRECT
 DOMAIN-SUFFIX,libvio.pro,DIRECT
-DOMAIN-SUFFIX,novipnoad.net,DIRECT
-DOMAIN-SUFFIX,subhd.tv,DIRECT
-DOMAIN-SUFFIX,hidns.vip,DIRECT
-DOMAIN-SUFFIX,dayanzai.me,DIRECT
-DOMAIN-SUFFIX,ddys.pro,DIRECT
-DOMAIN-SUFFIX,ddys.site,DIRECT
-DOMAIN-SUFFIX,ddys.move,DIRECT
-DOMAIN-SUFFIX,ddys.love,DIRECT
-DOMAIN-SUFFIX,freedidi.com,DIRECT
-DOMAIN-SUFFIX,kedaxmt.com,DIRECT
-DOMAIN-SUFFIX,2hvr.com,DIRECT
-DOMAIN-SUFFIX,wgzeyu.com,DIRECT
-DOMAIN-SUFFIX,xb6v.com,DIRECT
-
-
-
-
 
 
 # ========================================
 #  💽 关键字直连
 # ========================================
-DOMAIN-KEYWORD,tvbox,DIRECT
-DOMAIN-KEYWORD,4kq62z5rby2qupq9ub,DIRECT
+
 DOMAIN-KEYWORD,openlist,DIRECT
 
 
@@ -56,22 +34,7 @@ IP-CIDR,154.17.228.98/32,no-resolve
 # ========================================
 # 💿 GitHub 反代 CDN
 # ========================================
-DOMAIN-SUFFIX,gh-proxy.com,DIRECT
-DOMAIN-SUFFIX,gh.con.sh,DIRECT
-DOMAIN-SUFFIX,gh.ddlc.top,DIRECT
-DOMAIN-SUFFIX,gh.llkk.cc,DIRECT
-DOMAIN-SUFFIX,ghp.ci,DIRECT
-DOMAIN-SUFFIX,ghproxy.cc,DIRECT
-DOMAIN-SUFFIX,ghproxy.cfd,DIRECT
-DOMAIN-SUFFIX,ghps.cc,DIRECT
-DOMAIN-SUFFIX,git.886.be,DIRECT
-DOMAIN-SUFFIX,github.abskoop.workers.dev,DIRECT
-DOMAIN-SUFFIX,github.boki.moe,DIRECT
-DOMAIN-SUFFIX,github.moeyy.xyz,DIRECT
-DOMAIN-SUFFIX,github.site,DIRECT
-DOMAIN-SUFFIX,github.store,DIRECT
-DOMAIN-SUFFIX,hub.gitmirror.com,DIRECT
-DOMAIN-SUFFIX,kgithub.com,DIRECT
+
 
 
 
