@@ -7,11 +7,6 @@ DOMAIN-SUFFIX,software.nite07.com,PROXY
 DOMAIN-SUFFIX,ip.sb,PROXY
 DOMAIN-SUFFIX,ipify.org,PROXY
 
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn,PROXY
-DOMAIN-SUFFIX,clientservices.googleapis.com,PROXY
-DOMAIN-SUFFIX,googleapis.cn,PROXY
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
 
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net,PROXY
@@ -27,10 +22,6 @@ DOMAIN-SUFFIX,arduino.cc,PROXY
 # PT 相关
 DOMAIN-SUFFIX,dmhy.org,PROXY
 
-# Google 相关
-DOMAIN-SUFFIX,mtalk.google.com,PROXY
-DOMAIN-SUFFIX,mail.google.com,PROXY
-DOMAIN-SUFFIX,drive.google.com,PROXY
 
 # EA Desktop 云同步
 DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com,PROXY
