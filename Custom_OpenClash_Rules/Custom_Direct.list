@@ -10,9 +10,9 @@ DOMAIN-SUFFIX,qq9090.com,DIRECT
 DOMAIN-SUFFIX,yeyulingfeng.com,DIRECT
 DOMAIN-SUFFIX,btsj6.com,DIRECT
 DOMAIN-SUFFIX,libvio.pro,DIRECT
-#DOMAIN-SUFFIX,vrdesktop.net,DIRECT
-#DOMAIN-SUFFIX,virtualdesktop.net,DIRECT
-#DOMAIN-KEYWORD,vrdesktop,DIRECT
+DOMAIN-SUFFIX,vrdesktop.net,DIRECT
+DOMAIN-SUFFIX,virtualdesktop.net,DIRECT
+DOMAIN-KEYWORD,vrdesktop,DIRECT
 
 # ========================================
 #  💽 关键字直连
