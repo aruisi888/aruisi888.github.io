@@ -10,6 +10,9 @@
 # 请确保 Steam 登录的区域是中国(CN)区域，登录外区不保证效果
 
 # Steam 下载节点 CDN 地址
+# 修正格式并补充了缺失的现代 Steam 下载域名
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
@@ -36,4 +39,3 @@ IP-CIDR,205.196.6.0/24,no-resolve
 IP-CIDR,208.64.200.0/22,no-resolve
 IP-CIDR,208.78.164.0/22,no-resolve
 IP-CIDR,205.185.194.0/24,no-resolve
-'+
