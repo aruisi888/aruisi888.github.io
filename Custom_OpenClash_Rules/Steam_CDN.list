@@ -1,21 +1,15 @@
-# NAME: Steam_CDN
-# AUTHOR: Aethersailor
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-
-# Steam 下载 CDN 地址规则
-# 来源：https://www.dogfight360.com/blog/knowledge-base/fix_steamdl_region/
-# 更新日期 2024/8/9
-# 解决代理 Steam 时下载 CDN 走代理的问题
-# 请确保此规则优先级高于 Steam 规则
-# 请确保 Steam 登录的区域是中国(CN)区域，登录外区不保证效果
-
-# Steam 下载节点 CDN 地址
-# 修正格式并补充了缺失的现代 Steam 下载域名
+# ==========================================
+# 🎮 Steam 国内下载 CDN 域名
+# ==========================================
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
+
+# ==========================================
+# 🌐 Steam 国内下载服务器 IP-CIDR
+# ==========================================
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/23,no-resolve
 IP-CIDR,103.28.54.0/24,no-resolve
