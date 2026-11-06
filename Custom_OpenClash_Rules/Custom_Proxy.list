@@ -19,9 +19,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 # ☁️ 资源、论坛与网盘同步
 # ==========================================
 DOMAIN-SUFFIX,dmhy.org
-DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,freedidi.com
-DOMAIN-SUFFIX,hidns.vip
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
