@@ -1,7 +1,18 @@
-# ==================================
-# 📱 域名直连
-# ==================================
+# ==========================================
+# 🎮 Virtual Desktop 串流专线与端口
+# ==========================================
+DOMAIN-SUFFIX,virtualdesktop.net
+DOMAIN-KEYWORD,vrdesktop
+DST-PORT,38810
+DST-PORT,38820
+DST-PORT,38830
+DST-PORT,38840
+
+# ==========================================
+# 📱 自定义直连域名与服务
+# ==========================================
 DOMAIN-SUFFIX,vrmoo.net
+DOMAIN-SUFFIX,accac.club
 DOMAIN-SUFFIX,bbs9090.com
 DOMAIN-SUFFIX,jspoo.com
 DOMAIN-SUFFIX,gwdang.com
@@ -10,32 +21,14 @@ DOMAIN-SUFFIX,qq9090.com
 DOMAIN-SUFFIX,yeyulingfeng.com
 DOMAIN-SUFFIX,btsj6.com
 DOMAIN-SUFFIX,libvio.pro
-DOMAIN-SUFFIX,vrdesktop.net
-DOMAIN-SUFFIX,virtualdesktop.net
-DOMAIN-KEYWORD,vrdesktop
-
-# ==================================
-# 💽 关键字直连
-# ==================================
 DOMAIN-KEYWORD,openlist
 
-# ==================================
-# 🔘 IP地址直连
-# ==================================
+# ==========================================
+# 🔘 自定义直连 IP
+# ==========================================
 IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,98.126.27.164/32,no-resolve
 IP-CIDR,154.17.228.98/32,no-resolve
-
-# ==================================
-# 🔌 端口直连（如有）
-# ==================================
-DST-PORT,38810
-DST-PORT,38820
-DST-PORT,38830
-DST-PORT,38840
-
-
-
 
 # ========================================
 # 💿 GitHub 反代 CDN
