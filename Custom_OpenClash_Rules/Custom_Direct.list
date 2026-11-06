@@ -14,6 +14,7 @@ DST-PORT,38840
 DOMAIN-SUFFIX,vrmoo.net
 DOMAIN-SUFFIX,accac.club
 DOMAIN-SUFFIX,bbs9090.com
+DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,jspoo.com
 DOMAIN-SUFFIX,gwdang.com
 DOMAIN-SUFFIX,ypojie.com
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,btsj6.com
 DOMAIN-SUFFIX,libvio.pro
 DOMAIN-SUFFIX,zn50.cc
 DOMAIN-KEYWORD,openlist
+
 # ==========================================
 # 🔘 自定义直连 IP
 # ==========================================
