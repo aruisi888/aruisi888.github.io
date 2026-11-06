@@ -1,34 +1,38 @@
-# ========================================
-#  🖥 域名直连
-# ========================================
-DOMAIN-SUFFIX,vrmoo.net,DIRECT
-DOMAIN-SUFFIX,bbs9090.com,DIRECT
-DOMAIN-SUFFIX,jspoo.com,DIRECT
-DOMAIN-SUFFIX,gwdang.com,DIRECT
-DOMAIN-SUFFIX,ypojie.com,DIRECT
-DOMAIN-SUFFIX,qq9090.com,DIRECT
-DOMAIN-SUFFIX,yeyulingfeng.com,DIRECT
-DOMAIN-SUFFIX,btsj6.com,DIRECT
-DOMAIN-SUFFIX,libvio.pro,DIRECT
-DOMAIN-SUFFIX,vrdesktop.net,DIRECT
-DOMAIN-SUFFIX,virtualdesktop.net,DIRECT
-DOMAIN-KEYWORD,vrdesktop,DIRECT
+# ==================================
+# 📱 域名直连
+# ==================================
+DOMAIN-SUFFIX,vrmoo.net
+DOMAIN-SUFFIX,bbs9090.com
+DOMAIN-SUFFIX,jspoo.com
+DOMAIN-SUFFIX,gwdang.com
+DOMAIN-SUFFIX,ypojie.com
+DOMAIN-SUFFIX,qq9090.com
+DOMAIN-SUFFIX,yeyulingfeng.com
+DOMAIN-SUFFIX,btsj6.com
+DOMAIN-SUFFIX,libvio.pro
+DOMAIN-SUFFIX,vrdesktop.net
+DOMAIN-SUFFIX,virtualdesktop.net
+DOMAIN-KEYWORD,vrdesktop
 
-# ========================================
-#  💽 关键字直连
-# ========================================
+# ==================================
+# 💽 关键字直连
+# ==================================
+DOMAIN-KEYWORD,openlist
 
-DOMAIN-KEYWORD,openlist,DIRECT
-
-
-
-
-# ========================================
-#  📀 IP地址直连
-# ========================================
+# ==================================
+# 🔘 IP地址直连
+# ==================================
 IP-CIDR,218.78.7.16/32,no-resolve
 IP-CIDR,98.126.27.164/32,no-resolve
 IP-CIDR,154.17.228.98/32,no-resolve
+
+# ==================================
+# 🔌 端口直连（如有）
+# ==================================
+DST-PORT,38810
+DST-PORT,38820
+DST-PORT,38830
+DST-PORT,38840
 
 
 
