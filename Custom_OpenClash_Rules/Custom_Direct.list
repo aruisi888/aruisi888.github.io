@@ -11,6 +11,13 @@ DST-PORT,38840
 # ==========================================
 # 📱 自定义直连域名与服务
 # ==========================================
+DOMAIN-SUFFIX,xfyun.cn
+DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,voicecloud.cn
+DOMAIN-SUFFIX,xunfei.cn
+DOMAIN-SUFFIX,iflyink.com
+DOMAIN-KEYWORD,iflytek
+DOMAIN-KEYWORD,xfyun
 DOMAIN-SUFFIX,vrmoo.net
 DOMAIN-SUFFIX,accac.club
 DOMAIN-SUFFIX,bbs9090.com
