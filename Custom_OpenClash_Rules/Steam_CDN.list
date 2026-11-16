@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN,client-download.steampowered.com
 
 # ==========================================
 # 🌐 Steam 国内下载服务器 IP-CIDR
