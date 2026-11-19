@@ -35,20 +35,21 @@ DOMAIN-SUFFIX,rmsys.top
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
-DOMAIN-KEYWORD,mina.mi
 DOMAIN-SUFFIX,apphot.cc
 DOMAIN-SUFFIX,788vr.com
 DOMAIN-SUFFIX,yule.sohu.com
 DOMAIN-SUFFIX,huya.com
-DOMAIN-SUFFIX,simba.taobao.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,cloud.unity3d.com
 DOMAIN-SUFFIX,cradio.live
 DOMAIN-SUFFIX,nxonearth.com
-
-
-
-
+DOMAIN-SUFFIX,freedidi.com
+DOMAIN-SUFFIX,kejilion.pro
+DOMAIN-SUFFIX,massgrave.dev
+DOMAIN-SUFFIX,ifixit.com
+DOMAIN-SUFFIX,rtings.com
+DOMAIN-SUFFIX,ybfl.xyz
+DOMAIN-SUFFIX,zyscj.com
 
 # ==========================================
 # 🔘 自定义直连 IP
