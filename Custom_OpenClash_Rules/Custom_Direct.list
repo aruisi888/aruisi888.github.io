@@ -11,6 +11,7 @@ DST-PORT,38840
 # ==========================================
 # 📱 自定义直连域名与服务
 # ==========================================
+DOMAIN-KEYWORD,vrzwk
 DOMAIN-SUFFIX,xfyun.cn
 DOMAIN-SUFFIX,iflytek.com
 DOMAIN-SUFFIX,voicecloud.cn
@@ -50,6 +51,7 @@ DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,rtings.com
 DOMAIN-SUFFIX,ybfl.xyz
 DOMAIN-SUFFIX,zyscj.com
+
 
 # ==========================================
 # 🔘 自定义直连 IP
